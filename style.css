@@ -1956,8 +1956,8 @@ mark {
 .button-large.button-default {
 	box-shadow: 0 2px 20px rgba(34, 30, 31, 0.2);
 	font-size: 18px;
-	margin-top: 30px;
-	padding: 16px 30px;
+	margin-top: 15px;
+	/* padding: 16px 30px; */
 	text-transform: capitalize;
 	font-weight: 700;
 	line-height: 28px;
@@ -2263,7 +2263,7 @@ mark {
 	position: relative;
 }
 .single-testimonial-area .testimonial-content:before {
-	content: "“";
+	content: "â€œ";
 	font-size: 100px;
 	color: #363636;
 	position: absolute;
@@ -2303,7 +2303,7 @@ mark {
 	position: relative;
 }
 .single-testimonial.testimonial-style-2 .des-testimonial:before {
-	content: "“";
+	content: "â€œ";
 	position: absolute;
 	top: 35px;
 	left: 20px;
@@ -3550,7 +3550,7 @@ mark {
 	background-size: cover;
 }
 .breadcrumb-banner-area-about {
-	background: rgba(0, 0, 0, 0) url("img/slider/About\ Us.jpg") no-repeat scroll 0 0;
+	background: rgba(0, 0, 0, 0) url("img/slider/about.jpg") no-repeat scroll 0 0;
 	color: #ffffff;
 	padding: 110px 0;
 	position: relative;
@@ -3665,7 +3665,7 @@ mark {
 }
 .breadcrumb-bar .breadcrumb > li:first-child:before {
 	border-radius: 50%;
-	content: "";
+	content: "ï‹»";
 	display: inline-block;
 	font-family: "Material-Design-Iconic-Font";
 	font-size: 18px;
