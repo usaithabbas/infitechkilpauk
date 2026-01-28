@@ -68,7 +68,7 @@ body{
 	padding: 0;
 }
 i {
-	margin-right: 10px;
+	/* margin-right: 10px; */
 }
 /*----------bootstrap-navbar-css------------*/
 .navbar-logo{
@@ -1734,7 +1734,7 @@ mark {
 	line-height: 28px;
 	margin-bottom: 12px;
 	font-size: 15px;
-	max-width: 565px;
+	
 }
 .about-area .button-default {
 	padding: 16px 27px;
@@ -2263,7 +2263,7 @@ mark {
 	position: relative;
 }
 .single-testimonial-area .testimonial-content:before {
-	content: "â€œ";
+	content: "Ã¢â‚¬Å“";
 	font-size: 100px;
 	color: #363636;
 	position: absolute;
@@ -2303,7 +2303,7 @@ mark {
 	position: relative;
 }
 .single-testimonial.testimonial-style-2 .des-testimonial:before {
-	content: "â€œ";
+	content: "Ã¢â‚¬Å“";
 	position: absolute;
 	top: 35px;
 	left: 20px;
@@ -2564,7 +2564,7 @@ mark {
 	margin-top: 27px;
 }
 .single-footer-widget > h3 {
-	font-size: 24px;
+	font-size: 21px;
 	line-height: 19px;
 	margin-bottom: 10px;
 	padding-top: 12px;
@@ -3665,7 +3665,7 @@ mark {
 }
 .breadcrumb-bar .breadcrumb > li:first-child:before {
 	border-radius: 50%;
-	content: "ï‹»";
+	content: "Ã¯â€¹Â»";
 	display: inline-block;
 	font-family: "Material-Design-Iconic-Font";
 	font-size: 18px;
