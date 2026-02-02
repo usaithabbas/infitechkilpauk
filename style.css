@@ -2263,7 +2263,7 @@ mark {
 	position: relative;
 }
 .single-testimonial-area .testimonial-content:before {
-	content: "Ã¢â‚¬Å“";
+	content: "ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ";
 	font-size: 100px;
 	color: #363636;
 	position: absolute;
@@ -2303,7 +2303,7 @@ mark {
 	position: relative;
 }
 .single-testimonial.testimonial-style-2 .des-testimonial:before {
-	content: "Ã¢â‚¬Å“";
+	content: "ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ";
 	position: absolute;
 	top: 35px;
 	left: 20px;
@@ -3665,7 +3665,7 @@ mark {
 }
 .breadcrumb-bar .breadcrumb > li:first-child:before {
 	border-radius: 50%;
-	content: "Ã¯â€¹Â»";
+	content: "ÃƒÂ¯Ã¢â‚¬Â¹Ã‚Â»";
 	display: inline-block;
 	font-family: "Material-Design-Iconic-Font";
 	font-size: 18px;
@@ -4699,7 +4699,7 @@ thead {
 .edubuzz-address > ul {
 	max-width: 380px;
 	padding: 0;
-	margin-bottom: 35px;
+	/* margin-bottom: 20px; */
 }
 .edubuzz-address > ul > li {
 	border-top: 1px solid #4B5B7D;
